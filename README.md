@@ -32,4 +32,5 @@ Following tasks can be performed by:
 - Also checkout screenshots for further clarity
 
 **Note:** 
+
 > The objective of this project was to make it functional as fast as possible **(under 16 hrs)** , so its not perfect and definitely doesn't comply to all the general best practices. There are many shortcomings to this which I am totally aware of. Feel free to fork and improve them. Cheers! :clinking_glasses:
